@@ -28,7 +28,7 @@ Input Image:
 
 Processed Output:
 
-
+Output data: https://qrco.de/bfMAiw
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
