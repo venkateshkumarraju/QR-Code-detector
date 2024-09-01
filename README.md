@@ -24,11 +24,14 @@ Step 2: Run the notebook . The QR code will be detected, and the decoded text wi
 Step 3: The processed image, with the detected QR code highlighted, will be saved for further use.
 
 Example
-Input Image:
+# Input Image: 
+![Venkatesh_kumar_Raju](https://github.com/venkateshkumarraju/QR-Code-detector/blob/main/Venkatesh_kumar_Raju.png)
 
-Processed Output:
+# Processed Output: 
+![output](https://github.com/venkateshkumarraju/QR-Code-detector/blob/main/QRCode-Output.png)
 
 Output data: https://qrco.de/bfMAiw
+
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
